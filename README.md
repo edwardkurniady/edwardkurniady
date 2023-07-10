@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1> Hello, World! </h1>
 
-<!--
-**edwardkurniady/edwardkurniady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> Welcome to my GitHub page. I'm Edward, and here you'll find a collection of personal projects that I've worked on. Thanks for visiting, and I hope you'll find something interesting here! </p>
 
-Here are some ideas to get you started:
+<h2> :computer: Software Development </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+- 
+
+<h2> :chart_with_upwards_trend: Data Science </h2>
+
+- 
+- 
