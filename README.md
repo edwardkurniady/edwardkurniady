@@ -4,8 +4,10 @@
 
 <h2> :computer: Software Development </h2>
 
-- 
-- 
+- [ Dog Walker App ](https://github.com/edwardkurniady/dog-walker-app)
+  > My bachelor's degree final project.
+- [ Logbook LINE Bot ](https://github.com/edwardkurniady/logbook-line-bot)
+  > A chat bot to help university students with their logbook submissions.
 
 <h2> :chart_with_upwards_trend: Data Science </h2>
 
