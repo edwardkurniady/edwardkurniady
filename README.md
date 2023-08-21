@@ -13,7 +13,7 @@ Welcome to my GitHub page. I'm Edward, and here you'll find a collection of pers
 
 ## :chart_with_upwards_trend: Data Science
 
-- [ Mining Impact on Plant's Health ](https://github.com/edwardkurniady/mining-on-plants)
-  > A case study on the impact of mining on chlorophyll levels.
+- [ Mining Impact Assessment ](https://github.com/edwardkurniady/mining-on-plants)
+  > A brief case study on the impact of mining activity on the surrounding flora.
 - [ Wideband Absorbance Analysis ](https://github.com/edwardkurniady/wideband-absorbance)
   > An analysis of clinical data within the field of audiology.
